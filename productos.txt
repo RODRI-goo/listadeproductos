@@ -1,0 +1,13 @@
+nombre,precioEnGuaraniesPorUnidad,cantidad
+Manzana,2500,25
+banana,1000,50
+Naranja,1500,61
+leche,7500,55
+huevo,1000,200
+arroz,8000,50
+fideo,6000,50
+yerba,8000,41
+cafe,10000,45
+azucar,7000,56
+
+
